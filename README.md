@@ -26,3 +26,4 @@ Deployed Site:
 https://kimmy-hill.github.io/Weather_Data/
 
 Reference Image:
+<img width="1512" alt="Screen Shot 2022-02-06 at 4 12 59 PM" src="https://user-images.githubusercontent.com/95260935/152701614-cc5c1134-acb2-4d91-b505-bdee1096bc72.png">
