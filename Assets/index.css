@@ -1,0 +1,81 @@
+.navbar-brand { 
+    margin: 0 auto;
+    font-size: 60px;
+}
+
+.searchBar {
+    float: left;
+    width: 350px;
+    border: 1px solid rgb(255, 255, 255, .3);
+    padding: 10px;
+    margin: 5px;
+}
+
+label {
+    color: white;
+}
+
+.master {
+    color: white;
+}
+
+.mainTitle {
+    font-size: 32px;
+}
+
+.mainBody {
+    font-size: 20px;
+}
+
+.card-body {
+    margin: 10px;
+}
+
+.icon, .card-title {
+    display: inline;
+}
+
+.badge {
+    height: 30px;
+    width: 60px;
+    font-size: 16px;
+    color: white;
+}
+
+.forecast {
+    height: 165px;
+    width: 165px;
+    float: left;
+    margin: 7px;
+    color: white;
+}
+
+.dayIcon {
+    height: 50px;
+    width: 50px;
+}
+
+/* Media queries */
+@media screen and (max-width: 777px) {
+
+    .master {
+        float: right;
+    }
+
+  }
+ 
+@media screen and (max-width: 544px) {
+    
+    .break {
+        display: block;
+    }
+
+  }
+
+ @media screen and (max-width: 370px) {
+
+    .searchBar {
+      width: 250px;
+    }
+
+  }
