@@ -1,4 +1,4 @@
-var apiKey = "9cd194d163b26eabb565a48c6fa01c91"
+var apiKey = "a0205f78ab63dd4e8777f321976c6305"
 
 //Renders the last dispalyed city from local storage
 function renderLast() {
